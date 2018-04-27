@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chting2009.github.io/"/>
-  <updated>2018-04-21T07:55:24.677Z</updated>
+  <updated>2018-04-19T21:50:32.860Z</updated>
   <id>http://chting2009.github.io/</id>
   
   <author>
@@ -15,22 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://chting2009.github.io/2018/04/21/test/"/>
-    <id>http://chting2009.github.io/2018/04/21/test/</id>
-    <published>2018-04-21T06:06:46.000Z</published>
-    <updated>2018-04-21T07:55:24.677Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://chting2009.github.io/tags/python/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
